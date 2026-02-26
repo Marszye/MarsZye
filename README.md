@@ -6,7 +6,7 @@ I am a results-driven developer focused on building **scalable web applications*
 ---
 
 ### ⚙️ Core Stack
-- **Backend:** Laravel (PHP 7.1+), MySQL, RESTful APIs
+- **Backend:** - **Languages:** PHP (Native/PDO), JavaScript (ES6+), SQL
 - **Frontend:** Tailwind CSS, Bootstrap, JavaScript (ES6+)
 - **AI:** OpenAI API Integration, Prompt Engineering, LLM Implementation
 - **Tools:** Git, Docker, Postman, OpenAI
