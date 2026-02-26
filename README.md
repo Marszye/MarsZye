@@ -6,7 +6,7 @@ I am a results-driven developer focused on building **scalable web applications*
 ---
 
 ### ⚙️ Core Stack
-- **Backend:** Laravel (PHP 8.x+), MySQL, RESTful APIs
+- **Backend:** Laravel (PHP 7.1+), MySQL, RESTful APIs
 - **Frontend:** Tailwind CSS, Bootstrap, JavaScript (ES6+)
 - **AI:** OpenAI API Integration, Prompt Engineering, LLM Implementation
 - **Tools:** Git, Docker, Postman, Linux Server Management
@@ -25,7 +25,7 @@ I am a results-driven developer focused on building **scalable web applications*
 - **Key Tech:** PHP, Laravel, Security-First Private Deployment.
 - **Impact:** Digitized manual workflows for 350+ students with 100% data integrity and zero-access manipulation.
 
-#### 📊 CommunaTest (CBT Platform)(https://thebillionairehatchery.web.id)
+#### 📊 [CommunaTest (CBT Platform](https://thebillionairehatchery.web.id)
 *High-Performance Assessment & Community Hub.*
 - **Key Tech:** Laravel, High-Traffic Database Optimization.
 - **Impact:** Engineered a robust CBT engine for real-time exam simulations.
@@ -33,6 +33,6 @@ I am a results-driven developer focused on building **scalable web applications*
 ---
 
 ### 📈 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=[Marszye]&show_icons=true&theme=tokyonight)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=[MarsZye]&show_icons=true&theme=tokyonight)
 
-📫 **Let's Connect:** [marszye07@gmail.com]
+📫 **Let's Connect:** marszye07@gmail.com
