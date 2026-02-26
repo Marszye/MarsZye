@@ -9,7 +9,7 @@ I am a results-driven developer focused on building **scalable web applications*
 - **Backend:** Laravel (PHP 7.1+), MySQL, RESTful APIs
 - **Frontend:** Tailwind CSS, Bootstrap, JavaScript (ES6+)
 - **AI:** OpenAI API Integration, Prompt Engineering, LLM Implementation
-- **Tools:** Git, Docker, Postman, Linux Server Management
+- **Tools:** Git, Docker, Postman, OpenAI
 
 ---
 
@@ -33,5 +33,5 @@ I am a results-driven developer focused on building **scalable web applications*
 ---
 
 ### 📈 GitHub Stats
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marszye&layout=compact&theme=tokyonight)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=marszye&theme=tokyonight)
 📫 **Let's Connect:** marszye07@gmail.com
