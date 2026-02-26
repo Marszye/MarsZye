@@ -25,7 +25,7 @@ I am a results-driven developer focused on building **scalable web applications*
 - **Key Tech:** PHP, Laravel, Security-First Private Deployment.
 - **Impact:** Digitized manual workflows for 350+ students with 100% data integrity and zero-access manipulation.
 
-#### 📊 CommunaTest (CBT Platform)
+#### 📊 CommunaTest (CBT Platform)(https://thebillionairehatchery.web.id)
 *High-Performance Assessment & Community Hub.*
 - **Key Tech:** Laravel, High-Traffic Database Optimization.
 - **Impact:** Engineered a robust CBT engine for real-time exam simulations.
@@ -35,4 +35,4 @@ I am a results-driven developer focused on building **scalable web applications*
 ### 📈 GitHub Stats
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=[Marszye]&show_icons=true&theme=tokyonight)
 
-📫 **Let's Connect:** [LinkedIn Link] | [Email Link]
+📫 **Let's Connect:** [marszye07@gmail.com]
