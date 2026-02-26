@@ -1,4 +1,4 @@
-# Hi, I'm [Nama Kamu] 🚀
+# Hi, I'm Marszye 🚀
 ### Full-stack Web Developer & AI Integration Specialist
 
 I am a results-driven developer focused on building **scalable web applications** and **intelligent AI ecosystems**. With a strong foundation in the **Laravel** ecosystem and **OpenAI** integration, I transform complex institutional challenges into seamless digital solutions.
