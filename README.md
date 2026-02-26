@@ -33,6 +33,5 @@ I am a results-driven developer focused on building **scalable web applications*
 ---
 
 ### 📈 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=MarsZye&show_icons=true&theme=tokyonight)
-
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=marszye&show_icons=true&theme=tokyonight)
 📫 **Let's Connect:** marszye07@gmail.com
